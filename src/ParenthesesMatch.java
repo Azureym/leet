@@ -7,10 +7,10 @@ import java.util.*;
  * Time: 16:43
  * To change this template use File | Settings | File Templates.
  */
-public class ParentheseMatch {
+public class ParenthesesMatch {
 
     public static void main(String[] args) {
-        System.out.println(new ParentheseMatch().isValid("["));
+        System.out.println(new ParenthesesMatch().isValid("["));
     }
 
     public boolean isValid(String s) {
